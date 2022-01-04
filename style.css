@@ -1,6 +1,7 @@
 h1{
     background-color: black;
     color:white;
+    margin-top:10px;
 }
 h1 span{
     color:rgba(12, 228, 243, 0.938);
@@ -10,10 +11,12 @@ h2{
     color:white;
     text-align: center;
     font-style: italic;
+    margin-top:10px;
 }
 h3{
     background-color: rgb(67, 155, 228);
     color:rgb(30, 6, 46);
     text-align: right;
     text-decoration: underline;
+    margin-top:10px;
 }
